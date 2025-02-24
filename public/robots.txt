@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sherzod-raxmon.vercel.app/sitemap.xml
